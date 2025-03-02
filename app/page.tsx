@@ -53,6 +53,13 @@ export default function Home() {
               >
                 Testimonials
               </a>
+
+              <a
+                href="#testimonials"
+                className="text-gray-700 hover:text-emerald-600 transition-colors font-black"
+              >
+                INVESTORS
+              </a>
             </nav>
             <div className="flex items-center space-x-4">
               <a
